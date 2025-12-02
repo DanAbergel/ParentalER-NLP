@@ -11,3 +11,6 @@ The repository includes:
 - Model interpretation tools (SHAP, feature importance, key-word analysis)
 
 This project aims to bridge psychological constructs with computational text analysis, providing insights into how language reflects cognitive-emotional traits.
+
+data source:
+drive link : https://drive.google.com/drive/u/0/folders/1pPBn-nk-WO6wlD4fP6zLFX4-CW9Lhmv8
